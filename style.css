@@ -1081,3 +1081,7 @@ h4 {
     position: absolute;
     right: 15px;
 }
+#bloc-8{
+    background-color: rgba(0, 0, 0, 0.774);
+    font-size: 1.4em;
+}
